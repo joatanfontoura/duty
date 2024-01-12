@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2024-01-12 15:59:41</sys_created_on>
+        <sys_id>39b1affb97e77510951476771153af48</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_744920_duties_issues.x_744920_duties.admin</sys_name>
+        <sys_package display_value="Duties" source="x_744920_duties">66812bfb97e77510951476771153af43</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Duties">66812bfb97e77510951476771153af43</sys_scope>
+        <sys_security_acl display_value="x_744920_duties_issues">fdb1affb97e77510951476771153af44</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_39b1affb97e77510951476771153af48</sys_update_name>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2024-01-12 15:59:41</sys_updated_on>
+        <sys_user_role display_value="x_744920_duties.admin" name="x_744920_duties.admin">a2812bfb97e77510951476771153af4b</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

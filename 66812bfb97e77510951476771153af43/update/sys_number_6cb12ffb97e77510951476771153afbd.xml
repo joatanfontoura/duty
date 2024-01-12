@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_744920_duties_issues">x_744920_duties_issues</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>ISSUE</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2024-01-12 15:59:36</sys_created_on>
+        <sys_id>6cb12ffb97e77510951476771153afbd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ISSUE</sys_name>
+        <sys_package display_value="Duties" source="x_744920_duties">66812bfb97e77510951476771153af43</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Duties">66812bfb97e77510951476771153af43</sys_scope>
+        <sys_update_name>sys_number_6cb12ffb97e77510951476771153afbd</sys_update_name>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2024-01-12 15:59:36</sys_updated_on>
+    </sys_number>
+</record_update>

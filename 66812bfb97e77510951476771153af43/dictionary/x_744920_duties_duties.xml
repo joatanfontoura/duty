@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="73726f3f97e77510951476771153afda" extends="task" label="Duties" max_length="40" name="x_744920_duties_duties" type="collection">
+        <element label="Issue" max_length="32" name="issue" reference="x_744920_duties_issues" type="reference"/>
+    </element>
+</database>

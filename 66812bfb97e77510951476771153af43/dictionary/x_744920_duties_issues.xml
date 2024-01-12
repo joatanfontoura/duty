@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="68b12ffb97e77510951476771153afa1" label="Issues" max_length="40" name="x_744920_duties_issues" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="What" max_length="500" name="what" type="string"/>
+        <element label="When" max_length="255" name="when" type="glide_date"/>
+    </element>
+</database>
